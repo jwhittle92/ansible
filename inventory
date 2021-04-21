@@ -1,0 +1,6 @@
+[jumphost]
+35.212.10.81
+
+[jumphost:vars]
+username=ignw
+password=U2E6AhWtsXZPCn6xi
